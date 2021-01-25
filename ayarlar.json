@@ -1,0 +1,8 @@
+{
+    "token": "Nzg2MTYwNjc0NTA0OTY2MTU0.X9CXLg.eGttwix6DjBRODrNEv1hGQHi1dE",
+    "id": "478115984973103114",
+    "prefix": "!",
+    "status": "${guild.memberCount} Members",
+    "cooldown": "1"
+
+}
